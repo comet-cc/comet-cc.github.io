@@ -54,8 +54,3 @@ C3Infer is a research initiative focused on developing practical confidential sy
 
 [Website](https://c3infer.github.io/)
 
----
-
-## Contact
-
-In case of questions regarding the code, please get in touch with [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22) and [Sandra Siby](https://sandrasiby.github.io/).
