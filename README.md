@@ -2,8 +2,6 @@ COMET is an initiative from the [NetSys lab](https://netsys.doc.ic.ac.uk/) at Im
 
 This website provides an overview of the projects within COMET. 
 
-## Other
-
 ## AgenTEE: Confidential LLM Agent Execution on Edge Devices
 
 **Abstract**: Large Language Model agents enable powerful automation but create expansive attack surfaces through integration with non-deterministic models and third-party services. While cloud deployments dominate currently, edge execution is increasingly common to reduce latency and enhance privacy. However, securing complex agent pipelines on edge devices remains challenging when protecting proprietary assets and sensitive runtime state across heterogeneous, potentially compromised platforms.
@@ -32,6 +30,3 @@ Paper can be found [here](https://arxiv.org/pdf/2404.00190).
 
 Code can be found [here](https://github.com/comet-cc/GuaranTEE).
 
-## Contact
-
-In case of questions regarding the code, please get in touch with [Sina Abdollahi](https://www.imperial.ac.uk/people/s.abdollahi22) and [Sandra Siby](https://sandrasiby.github.io/). 
