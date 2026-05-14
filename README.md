@@ -24,7 +24,7 @@ We present Mica, a confidential computing architecture that decouples confidenti
 
 Our evaluation shows that Mica supports realistic cloud pipelines with only a small increase to the trusted computing base while providing strong, attestable confidentiality guarantees.
 
-[Paper](https://c3infer.github.io/papers/mica.pdf)
+[Paper](https://c3infer.github.io/papers/mica.pdf) . [Code](https://github.com/c3infer/c3infer)
 
 ---
 
@@ -46,7 +46,7 @@ In this paper, we introduce CAEC, a system that enables protected memory sharing
 
 ---
 
-## Joint Projects
+## Joint Project
 
 ### C3Infer: Compartmentalized, Confidential, and Certified AI Inference
 
